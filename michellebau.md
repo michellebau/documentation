@@ -23,3 +23,4 @@
 6. [UI using Chakra Components](https://www.figma.com/file/kPVq6x9o8TIzcmh19viB61/Chakra-UI-designs?type=design&node-id=0%3A1&mode=design&t=qhOQwIpIQPlhdriS-1)
 - landing page due March 8
 - dashboard in progress, ready for feedback
+- 

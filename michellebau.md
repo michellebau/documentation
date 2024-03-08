@@ -11,5 +11,15 @@
 - [x] epics
 - Due: Feb 9, 2024
 
-3. [Task Name]()
+3. [Epics]
+- Due: Feb 9, 2024
 
+4. [Prototypes](https://www.figma.com/file/WuwrYpbWNh597XzFrXWTfd/IS-421-Prototypes?type=design&node-id=0-1&mode=design&t=ZiLsINrNdHxrGQCQ-0)
+- Due: Feb 16
+
+5. [Prototypes revised](https://www.figma.com/file/WuwrYpbWNh597XzFrXWTfd/IS-421-Prototypes?type=design&node-id=0-1&mode=design&t=ZiLsINrNdHxrGQCQ-0)
+- Due: Feb 23
+
+6. [UI using Chakra Components](https://www.figma.com/file/kPVq6x9o8TIzcmh19viB61/Chakra-UI-designs?type=design&node-id=0%3A1&mode=design&t=qhOQwIpIQPlhdriS-1)
+- landing page due March 8
+- dashboard in progress, ready for feedback
